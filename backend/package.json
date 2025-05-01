@@ -1,0 +1,27 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/itzmeranjeet/bookstore#readme",
+  "bugs": {
+    "url": "https://github.com/itzmeranjeet/bookstore/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itzmeranjeet/bookstore.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.1",
+    "nodemon": "^3.1.10"
+  }
+}

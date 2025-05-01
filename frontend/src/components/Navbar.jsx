@@ -158,7 +158,7 @@ function Navbar() {
               >
                 Login
               </a>
-              <Login/>
+              <Login />
             </div>
           </div>
         </div>
