@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "title": "The Pragmatic Programmer",
+      "name": "Andrew Hunt",
+      "price": 0,
+      "category": "Programming",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1746039184~exp=1746042784~hmac=55fb5a61e601ad7c73bf8e370be954aae243da789f92ef346570ab60dfa56100&w=740"
+    },
+    {
+      "id": 2,
+      "title": "Clean Code",
+      "name": "Robert C. Martin",
+      "price": 199,
+      "category": "Software Engineering",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1746039184~exp=1746042784~hmac=55fb5a61e601ad7c73bf8e370be954aae243da789f92ef346570ab60dfa56100&w=740"
+    },
+    {
+      "id": 3,
+      "title": "Atomic Habits",
+      "name": "James Clear",
+      "price": 0,
+      "category": "Self-Help",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1746039184~exp=1746042784~hmac=55fb5a61e601ad7c73bf8e370be954aae243da789f92ef346570ab60dfa56100&w=740"
+    },
+    {
+      "id": 4,
+      "title": "Deep Work",
+      "name": "Cal Newport",
+      "price": 99,
+      "category": "Productivity",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1746039184~exp=1746042784~hmac=55fb5a61e601ad7c73bf8e370be954aae243da789f92ef346570ab60dfa56100&w=740"
+    },
+    {
+      "id": 5,
+      "title": "JavaScript: The Good Parts",
+      "name": "Douglas Crockford",
+      "price": 0,
+      "category": "Programming",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1746039184~exp=1746042784~hmac=55fb5a61e601ad7c73bf8e370be954aae243da789f92ef346570ab60dfa56100&w=740"
+    }
+  ]
+  
